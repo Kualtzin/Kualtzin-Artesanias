@@ -1,0 +1,14 @@
+@import url("universal.css");
+@import url("menu_nav.css");
+@import url("footer.css");
+@import url("fuentes.css");
+
+body{
+	background: #fff;
+	margin: 0px;
+}
+
+.main{
+	width: 80%;
+	margin: 10px auto;
+}
